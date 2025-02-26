@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import bronze from '../../assets/medal-bronze.svg'
-import gold from '../../assets/medal-gold.svg'
-import silver from '../../assets/medal-silver.svg'
+import bronze from '../../../assets/medal-bronze.svg'
+import gold from '../../../assets/medal-gold.svg'
+import silver from '../../../assets/medal-silver.svg'
 
 export function Ranking() {
   return (
